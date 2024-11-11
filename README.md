@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-- 🔭 I’m currently working on [Cluebase](https://lukelav.in/dev_blog/cluebase0.html)
+- 🔭 I’m currently working on Cluebase. Read the [Cluebase 1.0 docs](https://cluebase.readthedocs.io/en/latest/) or read about the development of Cluebase 2.0 on my [dev blog](https://lukelav.in/dev_blog/cluebase/cluebase0.html)
 - 🌱 I’m currently learning Prefect, Pytorch, and React
 - 📫 How to reach me: me@lukelav.in
 
