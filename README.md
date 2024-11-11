@@ -1,10 +1,10 @@
 ## Hi! 👋
 
-- 🔭 I’m currently working on [Cluebase](lukelav.in/dev_blog/cluebase0.html)
+- 🔭 I’m currently working on [Cluebase](https://lukelav.in/dev_blog/cluebase0.html)
 - 🌱 I’m currently learning Prefect, Pytorch, and React
 - 📫 How to reach me: me@lukelav.in
 
-To learn more about me, my projects, work experience, or contact info, visit [my personal site](lukelav.in)
+To learn more about me, my projects, work experience, or contact info, visit [my personal site](https://lukelav.in/index.html)
 
 <!--
 **lukelavin/lukelavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
